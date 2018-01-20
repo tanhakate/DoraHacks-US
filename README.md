@@ -1,4 +1,4 @@
-# DoraHacks-US
+# DoraHacks@US
 
 DoraHacks is one of the most influential hackathon organizers in China, with the mission to connect hackers around the world. DoraHacks has successfully organized over 100 hackathons, connected more than 3000 hackers and 300 enterprises. More than 100 problems from institutions have been solved at DoraHacks Hackthons. For our first global hackathon in Silicon Valley, we are focusing on AI & Blockchain Technology. 
 
